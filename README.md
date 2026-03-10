@@ -1,7 +1,7 @@
 <div align="center">
 
 # 안녕하세요! 👋
-## 개발자 [본인이름] 입니다.
+## 개발자 [문지훈] 입니다.
 
 <p align="center">
 <a href="https://github.com/본인아이디"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
