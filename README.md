@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/RIDER-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
+<img src="https://img.shields.io/badge/VISUAL%20STUDIO%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 
 </div>
 
