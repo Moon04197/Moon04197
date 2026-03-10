@@ -47,6 +47,16 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Backward_Royal]** | 상/하체를 두 명의 플레이어가 각각 조작하는 협동 게임 | Unreal Engine, C++ |
+| **[Get Me Power]** | | 개인 프로젝트 | Unreal Engine, C++  |
+| **[Noname]** | | 개인 프로젝트 | 패링이 가능한 간단한 게임 구현| Unreal Engine, C++  |
+| **[Noname2]** | | 개인 프로젝트 | 텍스트 RPG 모작 로스트아크| Visual Studio 2022 |
+
+
+
+# 🎮 Backward_Royal
+---
+> 5인 개발 프로젝트
+
 ## 📚 Quick Links (주요 문서)
 <hr>
 
@@ -69,6 +79,3 @@
 </p>
 
 <br>
-| **[Get Me Power]** | | 개인 프로젝트 | Unreal Engine, C++  |
-| **[Noname]** | | 개인 프로젝트 | 패링이 가능한 간단한 게임 구현| Unreal Engine, C++  |
-| **[Noname2]** | | 개인 프로젝트 | 텍스트 RPG 모작 로스트아크| Visual Studio 2022 |
