@@ -53,11 +53,8 @@
 
 
 
-# 🎮 Backward_Royal
----
-> 5인 개발 프로젝트
 
-## 📚 Quick Links (주요 문서)
+## 📚 Backward_Royal (기업협업 5인 개발) 
 <hr>
 
 <p align="left">
