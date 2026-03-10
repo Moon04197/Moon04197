@@ -4,9 +4,13 @@
 ## 개발자 문지훈 입니다.
 
 <p align="center">
-<a href="https://github.com/Moon04197"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:knsumjh@naver.com"><img src="https://img.shields.io/badge/EMAIL-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
-<img src="https://img.shields.io/badge/PHONE-010--4955--2774-24292E?style=for-the-badge&logo=smartphone&logoColor=white">
+  <a href="https://github.com/Moon04197">
+    <img src="https://img.shields.io/badge/GITHUB-Moon04197-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:knsumjh@naver.com">
+    <img src="https://img.shields.io/badge/EMAIL-knsumjh%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/PHONE-010--4955--2774-00D82C?style=for-the-badge&logo=smartphone&logoColor=white">
 </p>
 
 </div>
