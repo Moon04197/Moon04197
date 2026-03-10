@@ -46,7 +46,29 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Co-op Game Prototype]** | 상/하체를 두 명의 플레이어가 각각 조작하는 협동 게임 | Unreal Engine, C++ |
+| **[Backward_Royal]** | 상/하체를 두 명의 플레이어가 각각 조작하는 협동 게임 | Unreal Engine, C++ |
+## 📚 Quick Links (주요 문서)
+<hr>
+
+<p align="left">
+  <a href="https://docs.google.com/document/d/1gOZUQdxsdSx1_8nlnFHAVHUjaaqVJ2rRD9nGF-k7c9Y/edit?tab=t.0">
+    <img src="https://img.shields.io/badge/GOOGLE%20DOCS-기획서-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
+  </a>
+  <a href="https://docs.google.com/document/d/1NX_WE08bDh2432Rs42QQr6q8Jr_KsDkwkf30p7JBhzk/edit?tab=t.0#heading=h.mhgepk2kbsm">
+    <img src="https://img.shields.io/badge/GOOGLE%20DOCS-협업%20규칙-34A853?style=for-the-badge&logo=googledocs&logoColor=white">
+  </a>
+  <a href="https://giman979.atlassian.net/jira/software/projects/SCRUM/summary">
+    <img src="https://img.shields.io/badge/JIRA-스케줄%20관리-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://docs.google.com/document/d/1JPuusqn3770yIvaBkk9mt0OYxdQ8c-YQrQeYgs1FwiU/edit?tab=t.0">
+    <img src="https://img.shields.io/badge/GOOGLE%20DOCS-기술%20문서-00838F?style=for-the-badge&logo=googledocs&logoColor=white">
+  </a>
+</p>
+
+<br>
 | **[Get Me Power]** | | 개인 프로젝트 | Unreal Engine, C++  |
 | **[Noname]** | | 개인 프로젝트 | 패링이 가능한 간단한 게임 구현| Unreal Engine, C++  |
 | **[Noname2]** | | 개인 프로젝트 | 텍스트 RPG 모작 로스트아크| Visual Studio 2022 |
