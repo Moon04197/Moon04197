@@ -53,9 +53,9 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Backward_Royal]** | 상/하체를 두 명의 플레이어가 각각 조작하는 협동 게임 | Unreal Engine 5.3, C++ |
-| **[Get Me Power]** | | 어두운 숲 이론을 바탕으로 한 디펜스 게임 구현(개인 프로젝트) | Unreal Engine 5.7, C++  |
-| **[PokaProject]** | | AI귀신들을 피해 폐허로 변한 학교를 탈출하는 게임(개인 프로젝트)| Unreal Engine 5.5 , C++  | 
-| **[Unknown]** | | 개인 프로젝트 | 텍스트 RPG 모작 로스트아크| Visual Studio 2022 |
+| **[Get Me Power]**  | 어두운 숲 이론을 바탕으로 한 디펜스 게임 구현(개인 프로젝트) | Unreal Engine 5.7, C++  |
+| **[PokaProject]**  | AI귀신들을 피해 폐허로 변한 학교를 탈출하는 게임(개인 프로젝트)| Unreal Engine 5.5 , C++  | 
+| **[Unknown]**  | 개인 프로젝트 | 텍스트 RPG 모작 로스트아크| Visual Studio 2022 |
 
 
 
