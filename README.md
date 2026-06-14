@@ -41,7 +41,6 @@
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/POWERPOINT-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
 <img src="https://img.shields.io/badge/한글-00A4E4?style=for-the-badge&logo=hwp&logoColor=white">
-<img src="https://img.shields.io/badge/MIRICANVAS-FFBE00?style=for-the-badge&logo=miricanvas&logoColor=white">
 
 </div>
 
