@@ -1,7 +1,7 @@
 <div align="center">
 
 # 안녕하세요! 👋
-## 개발자 문지훈 입니다.
+## 테크니컬 디자이너 문지훈 입니다.
 
 <p align="center">
   <a href="https://github.com/Moon04197">
